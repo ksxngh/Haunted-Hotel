@@ -1,10 +1,12 @@
 # ProjectTeam5 - Haunted Hotel Game
+> Built as part of a team project at Simon Fraser University.  
+> Repository history cleaned for portfolio presentation.
 
 ## Team Members
-- Singh, Karanveer - ksa283@sfu.ca
-- Singh, Prabhjot - psa167@sfu.ca  
-- Mondair, Amar - ama378@sfu.ca
-- Khubbar, Kiran - kkk246@sfu.ca
+- Karanveer Singh
+- Prabhjot Singh
+- Amar Mondair
+- Kiran Khubbar
 
 ## Project Description
 Haunted Hotel is a 2D tile-based adventure game developed in Java. Players navigate through multiple levels including a lobby, Myers basement, Christmas/Santa level, and final boss room. The game features:
