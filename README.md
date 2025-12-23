@@ -26,6 +26,24 @@ The project emphasizes enemy AI, event-driven gameplay, and a modular tile and c
 cd HauntedHotel
 mvn clean compile exec:java
 
+Controls
+WASD — Move player
+Space — Attack / Fire projectile
+Enter — Interact with NPCs or objects
+ESC — Pause game
+My Contributions
+Implemented enemy AI behavior using A* pathfinding
+Developed combat and projectile mechanics
+Built collision detection and event-handling systems
+Wrote unit and integration tests for core gameplay components
+Testing
+Run all tests:
+mvn test
+Notes
+This repository is intended for portfolio and demonstration purposes.
+
+
+
 
 
 ## License
